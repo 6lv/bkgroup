@@ -63,7 +63,6 @@ export default {
         })
         
         watch(()=>state.routeChange,(route,old)=>{
-
             state.show=false
         })
 
