@@ -9,10 +9,10 @@
                     <div class="uk-h3">
                     Etudier en chine dès maintenant , en quelque étapes 
                     </div>
-                    <v-btn>
+                    <v-btn to="/bourses/postuler">
                     Faire une demande
                     </v-btn>&nbsp;&nbsp;&nbsp;
-                    <v-btn outlined>
+                    <v-btn to="/bourses/university" outlined>
                     Voir nos universités
                     </v-btn>
                 </div>

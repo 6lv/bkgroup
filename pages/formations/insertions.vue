@@ -15,6 +15,40 @@
         </div>
         
         </div>
+
+        <div class="uk-padding">
+         <div class="column">
+            <ul>
+                <li><b>DECORATEUR</b></li>
+                <li><b>VITRIER</b></li>
+        <li>
+            <b>LAVAGE AUTO </b>
+        </li>
+         <li>
+            <b>COIFFURE HOMME  </b>
+        </li>
+        <li>
+            <b>COIFFURE DAME</b>
+        </li>
+        <li>
+            <b>BRIQUETIER</b>
+        </li>
+        <li><b>CORDONNERIE</b></li>
+        <li><b>MACONNERIE</b></li>
+    </ul>
+      </div>
+      <div class="column">
+          <ul>
+              <li><b>CALIGRAPHIE-SERIGRAPHIE</b></li>
+              <li><b>VULGANISATEUR </b></li>
+               <li><b>BLANCHISSERIE</b></li>
+               <li><b>INFOGRAPHIE</b></li>
+               <li><b>PEINTRE BATIMENT</b></li>
+               <li><b>PEINTRE AUTO ET EINGINS</b></li>
+               <li><b>REPROGRAPHIE</b></li>
+          </ul>
+      </div>
+        </div>
     </div>
 </template>
 
