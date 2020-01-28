@@ -54,6 +54,7 @@ module.exports = {
     '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt-community/dotenv-module
     '@nuxtjs/dotenv',
+    ['nuxt-rfg-icon', { masterPicture: 'static/png.jpg' }],
   ],
   /*
   ** vuetify module configuration
