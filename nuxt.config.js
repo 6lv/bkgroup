@@ -39,6 +39,7 @@ module.exports = {
   */
   plugins: [
     '@/plugins/api',
+    '@/plugins/vant',
     {src:'@/plugins/styles',ssr:false}
   ],
   /*

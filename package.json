@@ -5,7 +5,7 @@
   "author": "6lv",
   "private": true,
   "scripts": {
-    "prod": " NODE_ENV=production pm2 start npm --name bkgroup_web -- run start",
+    "prod": "(npm run build) &  (NODE_ENV=production pm2 start npm --name bkgroup_web -- run start)",
     "delete": "pm2 delete bkgroup_web",
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
     "build": "nuxt build",

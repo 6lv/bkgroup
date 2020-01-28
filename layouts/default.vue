@@ -2,12 +2,14 @@
   <div>
     
     <v-app  app>
+     <client-only>
     <app-bar></app-bar>
           <v-content light>
-                <client-only>
+               
                 <nuxt/>
-                </client-only>
+
           </v-content>
+                          </client-only>
     </v-app>
   </div>
 </template>
